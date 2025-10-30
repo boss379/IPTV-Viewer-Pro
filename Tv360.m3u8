@@ -1,2 +1,234 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-# Generated at: 2025-10-30 18:34:00
+# Generated at: 2025-10-30 18:48:03
+#EXTINF:-1 tvg-id="1" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/3c49f217776180547122ad33f6bfd133.png",TV360+1 CUP C1
+https://fo-hlc.tv360.vn/bpk-tv/199/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU2OTQsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tcGQifQ.w4abwhdpc29NfQ818cM-UkgVmB8S44lz0oAlDKRUyLA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="2" group-title="VTV 👻" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU2OTcsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.fC3z4bMuxcaqsewRtjn2kuxvKE5Gy5G3iSIHtIj3_S4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2
+https://fo-hlc.tv360.vn/bpk-tv/443/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NjMsInVyaSI6Ii9icGstdHYvNDQzL291dHB1dC9pbmRleC5tM3U4In0.EYPyQMHRX-6yjhLhqRo5p3uDp10W_iYPxcaJkkAyS4k&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="11" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+https://fo-hlc.tv360.vn/bpk-tv/398/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NjYsInVyaSI6Ii9icGstdHYvMzk4L291dHB1dC9pbmRleC5tM3U4In0.Zx-fdvJJJ6hEq1eQRUeaLgvMi0sNISZ5eKZ1CLTAgKg&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="12" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+https://fo-hlc.tv360.vn/bpk-tv/420/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NjYsInVyaSI6Ii9icGstdHYvNDIwL291dHB1dC9pbmRleC5tM3U4In0.snfrYuO9P7nJipYvT6H5gU50Rx2yIS_LISNeGcJ6iB0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="13" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+https://fo-hlc.tv360.vn/bpk-tv/160/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NjksInVyaSI6Ii9icGstdHYvMTYwL291dHB1dC9pbmRleC5tM3U4In0.ZfAmFB0nILcLngp7L7qm70sX5jBnPh5goAhtE78IN0U&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="14" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+https://fo-hlc.tv360.vn/bpk-tv/421/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NjksInVyaSI6Ii9icGstdHYvNDIxL291dHB1dC9pbmRleC5tM3U4In0.nCP96Sr0bJpdkw24GJ2GlCFJ6_70LoqroMW_w4Gm-b8&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="15" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NzIsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.UmA-vxMxjHVpi27YCgXvea1Uxka4nEnYNm2uNB_wX00&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="19" group-title="Thiết yếu 👻" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+https://fo-hlc.tv360.vn/bpk-tv/141/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NzIsInVyaSI6Ii9icGstdHYvMTQxL291dHB1dC9pbmRleC5tM3U4In0.vMioJ3kFTBgFA8b8CWvovTT4_uCYFE2KFD0ie0ylpA8&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="20" group-title="Thiết yếu 👻" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
+https://fo-hlc.tv360.vn/bpk-tv/378/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NzUsInVyaSI6Ii9icGstdHYvMzc4L291dHB1dC9pbmRleC5tM3U4In0.Q27_SOvOCLf1SCD9wVEkVbocCtbf6lULlbYtYG3AYfI&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="25" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1
+https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NzUsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.CGUf1RoEEmdCHD-mnlOs8rVW_yoi6ZUrrO5nip1nOOA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="26" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2
+https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU3NzgsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.kNCSwjrrMDV5W0BAQCcTNE4ck5KrhSLB2tKdVgQROhU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="33" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/mwCTDMj.png",Hà Nội 1
+https://fo-hlc.tv360.vn/bpk-tv/282/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU4MTEsInVyaSI6Ii9icGstdHYvMjgyL291dHB1dC9pbmRleC5tM3U4In0.X6HbOgmt5C5rzENEIgVQE0Qi1ciSw8_9USkawzyXZBQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="34" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/HyiwlZV.png",Hà Nội 2
+http://27.67.50.6:18080/283.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SWMmOOg23RpadqD5+ggqMOx2de0G7XCusRLifmWQB/zWrYTtRWZw4cFGnDXk5KXQTgrKdZ4aAoYGoIbWYqjGihL2dzz6rnoonghPzGJzkvZXEDiHMzMmStcUAq/tAk1RPFtr9z2E3K6NDCjN3M9hmUWgqtou7BUIF10f9g2rypLg==&uid=1005836
+#EXTINF:-1 tvg-id="35" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/2On2R0G.png",An Giang
+http://116.108.198.134:18080/314.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7T1STqQcftxAKbG9cnOEeD/kbuugaXyFi/CJatpypQtBRzh0bXUxpPDU5b77fRQ9fKg2mMSUM4Xj1muki1wf80gZj44EwEOJYjBQ+1DVdf7uOVrnBTWJv/raGP98xOCmBc+rOnsoqGcNTPT0SSvRWUMyXg7kAu6P1p403MeiHvEjw==&uid=1005836
+#EXTINF:-1 tvg-id="39" group-title="Địa Phương 👻" tvg-logo="https://i1.wp.com/quangcaothangmay.vn/wp-content/uploads/2017/03/bao-gia-quang-cao-truyen-hinh-thai-binh-01.jpg?fit=800%2C400&ssl=1",Thái Bình
+http://171.238.180.230:18080/328.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SC04mNaPBQcIs/kDywuNxkSVZADiBKi7CiBohiM+fk+VVLar2ZAnrq4jS26f8ajh/5C/XSClHG/24sEmD+9A1khnhq6+a/zGM0vwHr+C5KflFirHwaXZNR+8UeEQcL+SWTumL/Xoxb67ht3TCcb4+CSM/zDB+dwv3C3buu/qFeHw==&uid=1005836
+#EXTINF:-1 tvg-id="42" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/YPQCtHY.png",Bình Dương 1
+http://171.238.180.230:18080/315.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TMPjYGPuSUYaz4f3uBH2vZtOT9UAvjd9lvWdk5ohTo9kVcK6Lw2wLa7p/IIIXNI0gRUrP/8CoXe9FM/24UTHpME622H06nLRxlewPDDxhcyu9rl41n9Rri/7PeWbvpxZyV2V/6qB7+W7fKs9hZBCffOhgS0dNkyEjvc5Os9dwq9Q==&uid=1005836
+#EXTINF:-1 tvg-id="43" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/LpV0d3Q.png",Bình Dương 2
+http://171.238.180.38:18080/316.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Qe5ltci/P8+d2Tjn1lIS+QWJC2j8nil5OHF56bvELI/tKuLI3YftdiBVeWLUKYvTNtZDF6LVLVBz7oskM+DeHmzMHb2cdiEUFHhV8ii+RBs5ltyOQpN2eYop4qWnkisMcDbYyNopGt23R95b2s91LSHuAI3Mb8DRANdWlnBN9mwg==&uid=1005836
+#EXTINF:-1 tvg-id="44" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/DHWoGfP.png",Bình Phước
+http://171.238.180.38:18080/324.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Sxg6hl3GXUM3GW+6cpz33YVIWHVrB9Oi2HSBpGvzuyNUFRHFv8EK84fENry086rOW+Bs0FNTxvGsWXW41KjXzNhXpnj8nlgUVlQLkXBKmQRNYM82IqI7knvByiOIKUtHIFzQrE94IXioemNWSEs9KH5qgZCN+iBLpVWdWwQw5Lng==&uid=1005836
+#EXTINF:-1 tvg-id="45",Bình Định
+https://fo-hlc.tv360.vn/bpk-tv/393/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MDcsInVyaSI6Ii9icGstdHYvMzkzL291dHB1dC9pbmRleC5tM3U4In0.yqL7QyJsnh5R1LPdGk_EJ3cIUrSdKT18yoHyXVmfmmg&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="46" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/QMZ7jdyK/ca-mau.png",Cà Mau
+https://rr1-ateme.tv360.vn/live/eds/314/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc2MTg0NTkwN30.GCeVAjE4kGVbwifPwNcw1FXYcg4D7SBk2rFe5nTDiDu7S16EeUJk75GLbs5FrEqJ-xwn0TNmyMRbN3NS3fl4xw&screen=MHN&uid=1005836
+#EXTINF:-1 tvg-id="47" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/TPVrhnVV/THTPCT.png",Truyền hình TP Cần Thơ
+https://fo-hlc.tv360.vn/bpk-tv/326/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTAsInVyaSI6Ii9icGstdHYvMzI2L291dHB1dC9pbmRleC5tM3U4In0.8vysRO80ac2GKybh_la4ecfFeXKMw_gXCfPJkLy6VHM&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="48" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/dVBHygc1/cao-bang.png",Cao Bằng
+https://fo-hlc.tv360.vn/bpk-tv/364/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTAsInVyaSI6Ii9icGstdHYvMzY0L291dHB1dC9pbmRleC5tM3U4In0.2qlfMBU9zS41BBlyBmZM5WSjxhE5YTNcFZkEyQuTdmI&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="49" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/6OWQ8lU.png",Đà Nẵng
+https://fo-hlc.tv360.vn/bpk-tv/436/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTMsInVyaSI6Ii9icGstdHYvNDM2L291dHB1dC9pbmRleC5tM3U4In0.1f2EKQtBlwUiuqWNh8juAgEBzXqNCh8Vdadr9hrp7d4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="50" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/GtwHr72P/daknog.png",Đắk Nông
+https://fo-hlc.tv360.vn/bpk-tv/394/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTMsInVyaSI6Ii9icGstdHYvMzk0L291dHB1dC9pbmRleC5tM3U4In0.ilaWG39QmvgMMhFA4x7_bOr6C0ty3zqTJftBeWtL9I8&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="51" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/0js2hzWc/daklak.png",Đắk Lắk
+https://fo-hlc.tv360.vn/bpk-tv/273/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTYsInVyaSI6Ii9icGstdHYvMjczL291dHB1dC9pbmRleC5tM3U4In0.FUx-81Xq8UT9LDp-nscXi0uLH4kogxmPwT_kCMsTkGQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="52" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/8z9GqFsM/dien-bien.png",Điện Biên
+https://fo-hlc.tv360.vn/bpk-tv/395/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTYsInVyaSI6Ii9icGstdHYvMzk1L291dHB1dC9pbmRleC5tM3U4In0.7ORBs2yaNdF6L26BTksTzr-dm_nYHM5tY4G9Oi5aLEI&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="53" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/blOZQPI.png",Đồng Nai 1
+https://fo-hlc.tv360.vn/bpk-tv/371/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTksInVyaSI6Ii9icGstdHYvMzcxL291dHB1dC9pbmRleC5tM3U4In0.fYzAutyp7cCgESkv-ZAwvoTmaGOKrje-6rpO9cEkKNE&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="54" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp
+https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5MTksInVyaSI6Ii9icGstdHYvMzcyL291dHB1dC9pbmRleC5tM3U4In0.SeeZvLDNc03bmyPUoeestZMOkkJY8UQnP1KezQJWvBY&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="55" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/csqFzvA.png",Gia Lai
+http://171.238.180.230:18080/259.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S10M+HNrzzaC5HOqCUpuJxjAEtF/A04ZeaPxOlWSr2FpwmjY8i/EblAqtRnQdTzOtJ0r2RqOp+MgbEBBcV3VdSiYKpb/RlJv7CZvrH/IPrqwS6amXgTk+tHJx4+XREDeSE9ssO9LTQxO/VohZT4vc783ibUZHEQjSL1xZEtwG+kw==&uid=1005836
+#EXTINF:-1 tvg-id="58" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/R4uthe7.png",Hà Tĩnh
+https://fo-hlc.tv360.vn/bpk-tv/365/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5NTUsInVyaSI6Ii9icGstdHYvMzY1L291dHB1dC9pbmRleC5tM3U4In0.3PcTgJ4nugZwwGqIJe4g86T9S8D2PdR2D95fpPnOdPA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="59" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/QmzXd4R.png",Hải Dương
+http://171.238.180.230:18080/317.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RiqWJS+B5ziH/eXevNLvSR0s1FduI72db5L2WYQbkSCEA3n8uXROrLTUx4FmbJ1aadQC/ahJ4NBNLjYSqxy9WyGNeVVM6Azbxcm/r3Ia3qDtF4ERhu6Ryqf3zqYq2XJbPrULpSEfvZBLusaU8OA4I9Bq1tNOCD/TDW8nZhiw7Icg==&uid=1005836
+#EXTINF:-1 tvg-id="60" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/StFk4PA.png",Hải Phòng
+http://171.238.180.230:18080/305.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QfVSrBqKOreESTiO4OWPl4LkbdOBRI4aF64jNEKnvSVHR/ve8W4I8QJfUIz4gNL6UoLBjqAvJlFFvdihBLRsseyMSWbTvu/f1Le4lVJm2gaTYchMaqlLEmb4hcHb0KdSkU8wecbsyojoNc1lRs9AHC2ERtSN2Pfvhl8vC2+n4RJA==&uid=1005836
+#EXTINF:-1 tvg-id="61" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/q733SyDf/H-u-giang.png",Hậu Giang
+https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5NjEsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.VrGn-mCr_JWGK0XH-GnAH1qlKbQaqii-lgHyX-9zhnM&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="63" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/29px2Qy.png",Thừa Thiên Huế
+http://171.238.180.38:18080/322.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TlG5S4wsmbRRk/tZiKRascYwZYYLz2BHuPkUop/ig4TlOkHKFi55m/t1RB1mRAR6VM8TlZPXFWNlo+lsLmynZgfzTPHBecIllRUHd92ES9avuV68kIpfPehhzah2Rop2EqwMKaAruuvP8X7xAONaeIh/ZXI6+Xl/wmJEQ6H0R7rg==&uid=1005836
+#EXTINF:-1 tvg-id="64" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/deNnP9h.png",Hưng Yên
+http://116.108.198.134:18080/325.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QeomgOXqfsiF/oL9lo/PeCh7iG5BWTBiRUq/cOrA3oQ285xuuE1xQ6r3+uiiIPNTz2/axx51z9kFfe3lQ/2dkBuDgUkA+YD7xavvTlOhusK+SNlqLPxnpgdGdxw7EmEIX6iUaTvWnltU5Ipsj65KQ5xckvjea/Y1ZNHouM3ZhNHQ==&uid=1005836
+#EXTINF:-1 tvg-id="65" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/fypKYDJm/Kh-nh-ho.png",Khánh Hoà
+http://27.67.50.6:18080/318.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QR6BlEnIQtbYJ12HZTq6d2Fl9us4X4r6a5JBPpxoYykraPP46EjYRIjrvjf9RLwrxdzZwb8sAPJQVig2AIeqDkck2coD1E3k4UGqHKzkH5BnBI7ssiGdLYjw7zLZKev6bGHU1Eibby23gGnvu+393hoRFxwJwBUZWjv5se8uIAsQ==&uid=1005836
+#EXTINF:-1 tvg-id="66" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/yNYGT6LS/Ki-n-gian.png",Kiên Giang
+https://fo-hlc.tv360.vn/bpk-tv/424/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDU5ODIsInVyaSI6Ii9icGstdHYvNDI0L291dHB1dC9pbmRleC5tM3U4In0.01xSaJm9NUgrayZp190UVPgBTgcZPwaAV9--lo43zIM&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="68" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/we3GCjr.png",Lai Châu
+https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwMDAsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.Ae2nzbgmFDhZD3S8xbWR8eav6e5MdBa3m0ei5f6vIE4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="69" group-title="Địa Phương 👻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ujYUde01z4SiNNfCuIM3HaZYxEqzAP0osA&s",Lâm Đồng
+https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwMDMsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.GtSnGjtPQd-VP4DLfIrgLvf-Eia7oEnEjVRnNAQF_GU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="70" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/6FCXyrr.png",Lạng Sơn
+http://171.238.180.86:18080/321.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RpLjSPzuqRd1wsYZJMm6zz3olJFgcnLbvykYzfPH5TCzjM9TB/nvvf/0EPqOI/+7+33yrDW7bZa+EOV3hI8w6pFyY1ntBdsFnfEPZ2DDF7SGIz4PgDNJX9ZkcarL/3A15P4+ENuek0+rO9cgMzz2N9ilWQMq25G22Fu3EW0MDYBw==&uid=1005836
+#EXTINF:-1 tvg-id="71" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/s2vkrD5C/Lao-cai.png",Lào Cai
+https://fo-hlc.tv360.vn/bpk-tv/385/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwMDYsInVyaSI6Ii9icGstdHYvMzg1L291dHB1dC9pbmRleC5tM3U4In0.Cl9-jot6qrXEMTuMWThV4tU4GEqUFzv5tAQxe-oH8nE&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="72" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/sDjg77pj/long-an.png",Long An
+https://fo-hlc.tv360.vn/bpk-tv/434/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwMDYsInVyaSI6Ii9icGstdHYvNDM0L291dHB1dC9pbmRleC5tM3U4In0.cVjmZAQAwKJAyk2mR9cgfrf65mfGoLJdOhx3397KCM8&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="74",Nghệ An 2
+https://fo-hlc.tv360.vn/bpk-tv/437/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwMjQsInVyaSI6Ii9icGstdHYvNDM3L291dHB1dC9pbmRleC5tM3U4In0.9O-oAMuvZkc53mAQeeo7yVGNygki5prMbKmmIFWqimM&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="75" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/XuYnZWe.png",Ninh Bình
+https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwMjcsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.HrSx6BkINxbZodvyXOybNhB7d9eWtBAxHIM8w5EcwnQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="76" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/cx5AaTV.png",Ninh Thuận
+http://116.108.198.134:18080/319.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SOUL8cWAO2jq90EChSf0ZyCkFDuDmLxshoxKTk1eSoaGWdkMyewifUsVkS3KjNT+kMKKdrTXnYFpZXbXKaB/z9EHhF+TMM3ADMfXBTvAEXPBWVMNpQ30ZYuTUHjQHqmt4Pq9XugoC7FRqtRdnkd9VSXNoAJ5cQFHkxlp95nt6MKA==&uid=1005836
+#EXTINF:-1 tvg-id="77" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/Qx7gRLFY/Ph-y-n.jpg",Phú Yên
+http://116.108.198.134:18080/320.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QW1FGrotg8qHGCfw0mFuiYN6E0t53MELOoBH8bNjn6V1zhALqf5WYIgaOfLx6SYvUXFonGmSARGrEHMJQkKRLAlbFFUnL92jSM7JNk77eDc6TH5EllF9SsSw0P8ntoACw2ZQO2J7JP5f4AIcPH+6PRL40B1d6WuUiEfHzBoxuIkA==&uid=1005836
+#EXTINF:-1 tvg-id="80" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/uWHWxZB.png",Quảng Nam
+https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNjMsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.M2v6t02E7HXkj3mHP-fvkZL7ANu9WOrmeI2v9GGHZu4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="81" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/McmKwa8.png",Quảng Ngãi
+https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNjYsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.FE3rTCqG_iDqdvW_-GQ8i3-nzW_CfEwI2oA0KkKlsq0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="82",Quảng Ninh
+https://fo-hlc.tv360.vn/bpk-tv/389/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNjYsInVyaSI6Ii9icGstdHYvMzg5L291dHB1dC9pbmRleC5tM3U4In0.BzJPzMKqj7NM5nN3Ur2cmC4yx3NU1gTIh2q6rSrVrD4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="83" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/4TLTYfu.png",Quảng Trị
+https://fo-hlc.tv360.vn/bpk-tv/260/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNjksInVyaSI6Ii9icGstdHYvMjYwL291dHB1dC9pbmRleC5tM3U4In0.Qc6jpkfqJKTwIH6y-Agr_NwHgXmJjmi4psAL8BkDAq4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="84" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/5KQJoBg.png",Sóc Trăng 1
+https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNjksInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.6CZ9Ve1Xpy8qpAN67ueXsLZK69_kGSKYgg7Dfa1_R1Q&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="85" group-title="Địa Phương 👻" tvg-logo="https://i.postimg.cc/bwTyJJGG/S-c-tr-ng.jpg",Sóc Trăng 2
+https://fo-hlc.tv360.vn/bpk-tv/444/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNzIsInVyaSI6Ii9icGstdHYvNDQ0L291dHB1dC9pbmRleC5tM3U4In0.B54s-IzyLaBf0zqATpjYte__XdLIY71JIaEmHrl1yPU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="86" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/0DU4cyg.png",Tây Ninh
+https://fo-hlc.tv360.vn/bpk-tv/430/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwNzIsInVyaSI6Ii9icGstdHYvNDMwL291dHB1dC9pbmRleC5tM3U4In0.RpASDyI-QMI000_kLjt00smpd9dviM-DJTN5q2hZpBY&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="88" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/UBcqMiY.png",Thái Nguyên
+https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwOTAsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.K8w2Yz7fakSc5jCwZIlfdYIAlsXx4KUELRoSESZz0Qg&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="89" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/NlOwltd.png",Thanh Hóa
+https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwOTMsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.dGLfCFQ2KfAUeeqzOwPvNrABUMn1RkYEEvpX0DVV3ko&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="90" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/NkHFZ0D.png",Tiền Giang
+https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYwOTMsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.FjIcqSajBMI_w4ggM2j2tPzMN85If-_zKKoGRRmjhQM&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="92" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/dHOm6Ll.png",Trà Vinh
+http://171.238.180.86:18080/303.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Tr5hwHthTL5+GeCjOvmxqGIYxUVAAwJZz2TtmUCIJyE6df+ImmHM2lrpt/dj39n3s+IIOj1eAh+5viPwRyL2taLI0q9WwEMgLFfbR2mjXYNgrx6C/stZ+r4cSjTRx9YjKoIRA8kbrnvY8yrD+5cTFK+2YZkiD25rf9cHbXZ4HnLg==&uid=1005836
+#EXTINF:-1 tvg-id="94" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/KX2RMXR.png",Bà Rịa Vũng Tàu
+https://fo-hlc.tv360.vn/bpk-tv/435/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYxMTQsInVyaSI6Ii9icGstdHYvNDM1L291dHB1dC9pbmRleC5tM3U4In0.FYgiv9PmFRbNOmxtsIGus8-JDBMYSkfYfaQ3L7hp9rU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="96" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24
+http://116.108.198.150:18080/287.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7S6/e8b9lNHdY8fsDKyvifJALDHiVF0QFkHg2ovZeofemxh7IBDx6oMWOxeOzyDQDGXs/R15CKRhHBHv6J9ujjwcnVFOldWDkjyNNhWT5v5eNwHYdCxnG3Cg02jx1nbWgifQ0/3Zx2BW0ImUp0SXtMx55cy+HZ+fZWWppK+3j94Mg==&uid=1005836
+#EXTINF:-1 tvg-id="99" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/QCv1TwCm/HGTV-logo-removebg-preview.png",HGTV
+https://fo-hlc.tv360.vn/bpk-tv/295/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYxNTAsInVyaSI6Ii9icGstdHYvMjk1L291dHB1dC9pbmRleC5tcGQifQ.1ZxYQqf3gW6y4AWRi2jrT6deZB9r6rtxotUs0GxtpVs&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="106" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
+http://116.108.198.134:18080/276.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7TDVQ0ivZrQB5IG3f0WC22SnRJsqEd+7V4ALTPF8MVP1pHhms1kT163Jp+Skq3Hev1fAyPAjd+NKIXj604n2X4huHVzzK9aGGp/Hd4VILOwodKv9KwNlYSzEbIUTM6hPfTsj+I0PpDw10eFk1avq655/OcC0fTpW1RdnLg/Ksc47A==&uid=1005836
+#EXTINF:-1 tvg-id="111" group-title="Quốc Tế 👻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/150px-Arirang-TV-Logo.svg.png",Arirang
+http://27.67.50.6:18080/70.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RP+N1JHZb9r0ZEyqK/Puy5XoPuPxQcwuHpiuhYpQdcDsxCKgUaVHolgKF1o6XedD58mSaAet8WrgCKtMMSCh9APXxP0UPreWOwI4yPCQNnPBYoWsWRz79XKRYjEQ9DV6xSZ9U/DRmyy5Ok5nlBQ0ch9ny8YFo4dUE3BUU7VbWePQ==&uid=1005836
+#EXTINF:-1 tvg-id="112",CNA
+https://fo-hlc.tv360.vn/bpk-tv/433/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMDQsInVyaSI6Ii9icGstdHYvNDMzL291dHB1dC9pbmRleC5tM3U4In0.00-ZJL8Xx5Z6lAVcfFlp7vNxhbGa86CzS7PGEIVKS9g&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="132" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMjIsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.7X0derJtgn8cwERrA2_p6NajZ7ohkQCrqxcKLE8V2OQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="133" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMjUsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.M8OSd1C-GCKbkrSlfZoMt_nBMgLWFF8XKXY21LxySBQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="134" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh
+https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMjUsInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.xRCPghJWx80pGs22wnCQcjOW1VaF_hM5d8fWyhpvchg&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="135" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/GKOac3p.png",Earth Planet
+https://fo-hlc.tv360.vn/bpk-tv/176/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMjgsInVyaSI6Ii9icGstdHYvMTc2L291dHB1dC9pbmRleC5tM3U4In0.DYzqN1D8rQkkiX7mAIEacfH430wbGwyTDRKC0pB13Co&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="136" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON 2TV
+https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMjgsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.GZkS5CtdWmdaiArQ44ajDfgORf70kFDD84u_ehpV-Fs&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="148" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/9d70a31a1d4bd1820bae3d9321fe9ca5.png",TV360+5 CUP C2
+https://fo-hlc.tv360.vn/bpk-tv/200/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMzEsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tcGQifQ._fO17nYPzLSCEo9euk-NXgiInwZoVmK5caYAcPlDsYo&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="151",Bình Thuận
+https://fo-hlc.tv360.vn/bpk-tv/246/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyMzEsInVyaSI6Ii9icGstdHYvMjQ2L291dHB1dC9pbmRleC5tM3U4In0.w0ekfbrinGx8690gkpmya2h35KtsMZlXZp5BfdogeJk&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="159" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/pd7GZJ71/0000-1.png",Box Movie
+https://fo-hlc.tv360.vn/bpk-tv/162/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNDksInVyaSI6Ii9icGstdHYvMTYyL291dHB1dC9pbmRleC5tM3U4In0.tIdHYFvI3KzllAZSM3wMTbxW_ZuVxxfC6-PouvRBu-c&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="160" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/YjKZnzwR/Hollywood-Classics.png",Hollywood Classics
+http://116.108.198.150:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7QyfqFj1PgUFqyX5Mnm+gLkTiak+1Fl86055XJ8X6eXy5vRVTrt4JrfurnToQqq6ss3Fq1YU8/icX/eeUXw6Dd5+PF5i4RukSXPvazZDoBTIJCbJ+UJzzztXtkA8ZezGaNb21Uu/9gHXMZFqWUQrdVuCwMkniGyF4K9Y8NcAlKuew==&uid=1005836
+#EXTINF:-1 tvg-id="162" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+https://fo-hlc.tv360.vn/bpk-tv/167/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNTIsInVyaSI6Ii9icGstdHYvMTY3L291dHB1dC9pbmRleC5tM3U4In0.Q2wXzfBrvxM0w-XJy1GkObfJ7NqpaGSDIuz5CbnjSoA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="163" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+https://rr1-ateme.tv360.vn/live/eds/169/HLS_Clean_MHL_4s_new/169.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE2OS9ITFNfQ2xlYW5fTUhMXzRzX25ldy8iLCJleHAiOjE3NjE4NDYyNTV9.Y-JDn91v9KUkbdODzRzGSzGb8tNVMXAPth_HfYies65VrWMUdhmO0mRjIblibiOCxD5Wl6ZYKH5SbX6XHcIAQw&screen=MHN&uid=1005836
+#EXTINF:-1 tvg-id="169" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
+https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNTUsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.lBkgrTu8K6KhLOfh8sKaQ3pBZLRoYxn_1xxqthK4nUQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="175" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
+http://116.108.198.150:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SJJC/NwEAe31KJBQLZDUu7vXIDkIMFoCVTS5HVOwahptidr23nG1OWz86Y+LTZ4KvcjuZToaiZg4xkzPFEVcY5eoFYDo6oVv/nB9Hl68Ibbk5LcfvC+byZGUJUj5COQ03jAQrDzWJ07BrgG7tY2OY/oxBQuZUB76tEzmjHS4r0jA==&uid=1005836
+#EXTINF:-1 tvg-id="176" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
+https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNTgsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.nwb0yQdKLGfho74rdygRvZhd8_IKbCXQDO9O-2G0-Ew&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="177" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie Dramas
+https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNjEsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.TvqXk16wLS6ru7di3E0-QLKzId131ipPaeG8FbkmSOc&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="178" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNjEsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.mHR-SKE5In2d2avNRg6NrQcPmWeB-PGvbDARaodxA8M&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="179" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KID
+https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNjQsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.v-vu3abAmA9-fJgmFVF3cZhbGCErZOTHOpU1NLKMk8Y&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="180" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
+https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNjQsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.KMFnAEvFtJtyXqDcHzZIveDBWCoU908AOCTmSwFoQB0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="181" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
+https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNjcsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.mwCKB1eUDPzF6zWqOM__78s8mX5HSTL6uFTTwxM8fv0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="182" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON Channel
+https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNjcsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.6of7wLN2WHXBudz2emAk1awQjOxa9AYPnX6nyT1bKss&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="184" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style
+https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzAsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.tVxcI-sKj8uoJRPbVdpna2JsnTBrQWtwdUR4SBX5Yz8&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="185" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
+https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzAsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.1n2LbCSoxSNBWEFZX2WmjCz-oM7O-zGnWxU2cIqW_iY&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="186" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending
+https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzMsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.KCFpaaBF9tiDfjNWU7hdRDMmu6Rp8zS1HVYv9Cv52Mg&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="187" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzMsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.LnWlH6rUhflrKYo4ArsuV8kKuzF1Hh4TyIFk2-nw-I0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="188" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
+https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzYsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.4sT-DpQppMFLGX2Ame5E_4efK748L-6NbZEU9Oae8n0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="189" group-title="VTVcab 👻" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info
+https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzYsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.AEDnB1tWzCSwJfFQcYGj3HQoosunzAKARZ_lcWtohwo&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="190" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1
+https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyNzksInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0.MDj4Zsw2ZIIvgieI_uWQL1NZQeJZBVn_vuOhSYURGEQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="191" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys
+https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzYxODQ2Mjc5fQ.4LWY7XJfq0ucnnzRmUNcMMN6eq9zYFVZnS-_aEXJvdr9M-1nf78djM7qjnvr-aO5ko_SElj0dHXvamxeYK0fqA&screen=MHN&uid=1005836
+#EXTINF:-1 tvg-id="192" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyODIsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.6e_Ou8OIAHeX1yNe2WcH_KispQDieLNVXE104Meth-M&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="193" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
+https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyODIsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.pJOf5mAK3cdgtCVGjKQNzKKFhcSuFSyQ-Cx5izjPZcQ&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="194" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
+https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyODUsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.SPcAA7ejaw4rp6pbsAs_HI2nHmrdlhA7IHvSQHybCRU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="195" group-title="HTV/HTVC 👻" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYyODUsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.ODJZQEOKRSgQhZQPm7m6zsNrT04PkkKeBVXqf3V6_Zk&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="201" group-title="SCTV 👻" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2
+http://27.67.50.6:18080/343.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7Qp16LUG82sQnTLs8nUtpulmn6yKdRHN31INEOAVnyiMiiomUxM/5IKDOYha3mWBGk0eySMtDQSN5nqCPC3R8fc2fdy6Pmpll996mQdpPp6lKfwEP3yY5sJ2vlt+Mq/MOEF5fxTK4uY+/rLnta5Nk1TBQcNMgUoyZoyfVh9bgL8Aw==&uid=1005836
+#EXTINF:-1 tvg-id="212" group-title="K+ 👻" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+https://fo-hlc.tv360.vn/bpk-tv/170/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMDYsInVyaSI6Ii9icGstdHYvMTcwL291dHB1dC9pbmRleC5tM3U4In0.RxAyTuOsLRDBsR7mEhSxIkAFXvA3CkpT-Rn6gbW1_k4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="213" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
+https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMDYsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.eaDwBEpV2_O8l5kKRwxKYbLmbxL54NCrZbXzQHaHrkM&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="214" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/t9fzARL.png",DaVinci
+http://171.238.180.86:18080/173.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7SG0u2vccmRxb0hECujxrLyNrE6qn6yNrCXD91Xv0VC18zAV0x+xn1v6uIAq/mXk9c89kZUT/BZzFUzc6n9gKOOMr3thlIQYj6Gz2Q/wacZctsjuVCJQ+Ofqe1bAf3RNC5z3gZwix/qK7Q7jXk2rnrrXjAFs46E4MdbNMsj1AsaTg==&uid=1005836
+#EXTINF:-1 tvg-id="215" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+https://fo-hlc.tv360.vn/bpk-tv/178/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMDksInVyaSI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4In0.CmUqldY0kuMjAN1FukWpvzOtO_ZHc20fXTymLy7Aaq0&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="216" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
+https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMTIsInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.WkhNTKeBj_O2oCP1RQuylTnF53pOwSFGg3DpizQ-UfU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="219" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3
+https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMTIsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.nSyySWvoovgR8oX8jMR-qyen7ibNz2ygJaPiakgyXok&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="220" group-title="Địa Phương 👻" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4
+https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMTUsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.kJkpbeHlMAZHAivzkToI5rxkH7qYRgK_PV9mIKZp-5s&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="232" group-title="SCTV 👻" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16
+https://fo-hlc.tv360.vn/bpk-tv/297/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMTUsInVyaSI6Ii9icGstdHYvMjk3L291dHB1dC9pbmRleC5tM3U4In0.8WRjThNaryL2snedgfNof6YkZyw94-1onMzWMhySsw8&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="235" group-title="Quốc Tế 👻" tvg-logo="https://i.postimg.cc/nVC6bCpJ/t-i-xu-ng.png",In The Box
+https://fo-hlc.tv360.vn/bpk-tv/187/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMTgsInVyaSI6Ii9icGstdHYvMTg3L291dHB1dC9pbmRleC5tM3U4In0.WCjgjdWOn-JZHdSK4l1k4POS58yoK0MT9ktdiKB27BU&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="237" group-title="Quốc Tế 👻" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",Man
+https://fo-hlc.tv360.vn/bpk-tv/188/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMTgsInVyaSI6Ii9icGstdHYvMTg4L291dHB1dC9pbmRleC5tM3U4In0.gL0S_hJkuQvEM7faASgyrymPeHVmTaktiCZzXL53Jqg&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="239" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box HITS
+https://fo-hlc.tv360.vn/bpk-tv/189/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMjEsInVyaSI6Ii9icGstdHYvMTg5L291dHB1dC9pbmRleC5tM3U4In0.YJEkddikkF3LOk2gencRXEpdYvVkpFOHus4PzhGCGXw&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="289" group-title="Quốc Tế 👻" tvg-logo="https://i.imgur.com/DoCK1GY.png",Music Box
+https://fo-hlc.tv360.vn/bpk-tv/271/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzMjEsInVyaSI6Ii9icGstdHYvMjcxL291dHB1dC9pbmRleC5tM3U4In0.evYFcJsRnbwEHyfCA2zvRcR2wFQia6xGtvHETn4V8n4&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9837",TV360+5
+http://171.238.180.86:18080/201.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zjmpvz1AHzTi69AZFotOpuo9MSEoPQmKLo1tQK6Uk5oS70/lh9QyjQ9KmS3k8N/c9uhhtFJn9vRXdw5bvEr+h8Lg5zzkA2+IpAxFLBEHpbPUCRiFSKGbCL+6fCj56EQVd2X18YvqMMwIlzOwSk33YWutXc/wOsQWwTrTy85tH7E&uid=1005836
+#EXTINF:-1 tvg-id="9855" group-title="Quốc Tế 👻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/1200px-CNBC_2023.svg.png",CNBC
+https://fo-hlc.tv360.vn/bpk-tv/293/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzNTcsInVyaSI6Ii9icGstdHYvMjkzL291dHB1dC9pbmRleC5tM3U4In0.w9Yt7quniQM0tFrx8TFxkWnGh8lR3DbQBAUEO0-1590&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9856" group-title="Quốc Tế 👻" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History
+https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzNjAsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.GjJ55R2RdhRwfW8znUH0vZ4e6YIq3gH5yQydRu0SZoA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9867" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/876becb83cedebc4c1362de5dea0ec2f.png",TV360+6 CUP C2
+https://fo-hlc.tv360.vn/bpk-tv/367/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzNjAsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tcGQifQ.fCUCzBo1h1PgSsG76jHlcyo3LIqhyDAx_7DUJkXRulA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9868" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/be3726897659953bcc937c77acfa2994.png",TV360+7 CUP C2
+https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzNjMsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.Myk2JaZc68NNXxm7EjE4p_kiZENPTLHRcx75kZYmruc&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9869" group-title="Sự Kiện 👻" tvg-logo="https://vuikhoetv.online:443/images/2f739bcb8a89d19485d3f3cefe321f06.png",TV360+8 CUP C2
+https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzNjMsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.F-QOjsq9reg59kpiRLSHiggY2rXCOEm5JgzZBVSZCnA&minrate=0&maxrate=5000000&uid=1005836
+#EXTINF:-1 tvg-id="9887",TV360+9
+https://fo-hlc.tv360.vn/bpk-tv/379/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjE4NDYzNjYsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tcGQifQ.3j7-g6OslDOqxWhMd3nr8MnvcUnm_V7-u2ztECu-W_8&minrate=0&maxrate=5000000&uid=1005836
